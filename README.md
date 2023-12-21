@@ -1,4 +1,3 @@
 # howToChangeDefaultBranch
 デフォルトブランチを変えたい！！
-
-hogehoge
+これをmainにするつもりだ。
